@@ -1,0 +1,101 @@
+body{
+ margin: 0px;
+}
+.site-content{
+  background-image: url("pro_back4.jpg");
+  height:800px;
+ width: 100%;
+}
+
+.content-top{
+  margin-left: 11%;
+  opacity:0.7;
+  margin-top: 9%;
+  padding:25px;
+  background-image: linear-gradient(#8ebfa1,#275dbf);
+  display: inline-block;
+  border-radius:19px;
+  font-size: 2rem;
+  color:#85053a;
+  box-shadow: 0px 0px 30px 15px  #ffffff;
+}
+
+.card{
+  margin-top:34rem;
+}
+
+.card1{
+  margin-top:6rem;
+  margin-left: 2rem;
+  width: 55%;
+  height: 400px;
+  background-color: yellow;
+  display: inline-block;
+  box-shadow: 25px 30px 20px #b2b7bf;
+  border-radius: 25px;
+  float: left;
+  padding: 25px;
+  background-image: linear-gradient(#ffffff,#b7dae8);
+}
+
+.card2{
+  margin-top:6rem;
+  width: 55%;
+  height: 400px;
+  background-color: red; 
+  margin-right: 2rem;
+  display: inline-block;
+  box-shadow: -25px 30px 20px #b2b7bf;
+  border-radius: 25px;
+  float: right;
+  padding: 25px;
+  background-image: linear-gradient(#ffffff,#b8f3a9);
+}
+
+.card3{
+  margin-top:6rem;
+  margin-left: 2rem;
+  width: 55%;
+  height: 400px;
+  background-color: orange;
+  box-shadow: 25px 30px 20px #b2b7bf;
+  border-radius: 25px;
+  float: left;
+  padding: 25px;
+  background-image: linear-gradient(#ffffff,#b19bb5);
+}
+
+.card4{
+  margin-top:6rem;
+  width: 55%;
+  height: 400px;
+  background-color: green;
+  margin-right: 2rem;
+  display: inline-block;
+  box-shadow: -25px 30px 20px #b2b7bf;
+  border-radius: 25px;
+  float: right;
+  padding: 25px;margin-bottom: 10rem;
+  background-image: linear-gradient(#ffffff,#f7f0a4);
+}
+li{
+  display:inline-block;
+  margin-left: 25px;
+  margin-right: 15px;
+  font-size:3rem;
+  float:right;
+}
+
+#email{
+  display:inline-block;
+  margin-left: 15px;
+  margin-right: 25px;
+  font-size:3rem;
+  float:left
+  ;
+}
+
+
+
+
+
